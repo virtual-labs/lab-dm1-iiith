@@ -6,7 +6,7 @@
     },
     "lab": "Discrete Mathematics - I",
     "lab_display_name": "Discrete Mathematics - I",
-    "phase": 3,
+    "phase": "3-ext",
     "collegeName": "IIITH",
     "baseUrl": "dm1-iiith.vlabs.ac.in",
     "introduction": "Discrete Mathematics - I establishes the fundamental building blocks of discrete mathematics, focusing on relations, logic, and counting principles that underpin computer science theory. Through interactive experiments, students explore how mathematical structures model relationships in data, reason about computational problems, and analyze algorithmic complexity. This lab emphasizes the transition from intuitive understanding to formal reasoning, introducing students to the precision required in mathematical proofs and algorithm design. Topics range from ordering and equivalence relations to the foundational concepts of logic, recursion, and combinatorics, each serving as essential tools for understanding computational structures and theoretical computer science.",
