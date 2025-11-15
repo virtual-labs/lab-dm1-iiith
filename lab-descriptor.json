@@ -57,7 +57,7 @@
             "name": "Recursion",
             "short-name": "recursion",
             "repo": "https://github.com/virtual-labs/exp-recursion-discrete-mathematics-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         }
     ],
